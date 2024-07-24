@@ -33,8 +33,33 @@
 
 # Projeto 2
 
+- Primeira página tem por intenção apresentar o Sell Out de Varejos ao longo das semanas analisando overview de vendas, estoque e venda acumulada e suas variações ao longo das semanas, além de análises de tendências e top clientes e uma métrica de razão de estoque e venda, métrica importante para avaliação de estoque e tendência
+- A segunda página conta uma história diferente, a ideia é apresentar mais detalhes dos dados quebrados por granularidades maiores e dar abertura a exportação de dados
+
+![image](https://github.com/user-attachments/assets/13e49d33-8b77-41d8-b6c4-ee24c5a8532b)
+
+![image](https://github.com/user-attachments/assets/2d136554-540f-4bf3-9825-67b1bfb1aae5)
 
 
+
+
+# Projeto 3
+
+- O relatório tem por ideia demonstrar algumas informações de carteiras de clientes
+- Primeiro gráfico - clientes atingidos vs não atingidos
+- Segunda Gráfico - clientes atingidos vs não atingidos por vendedor
+- Tabelas - quantidade, vendas, share (net sales/total), meta (goal), % achieved goal (meta atingida %), CTF, Classificação A e BC em quatro quebras em nível de linha de produto, grupo de produto, vendedor e cliente
+- última tabela - Descrição por nível de SKU de média trimestral de quantidade vendida, M0, M1, M2 e M3 de quantidade vendida, variação de crescimento e Classificação ABC
+
+![image](https://github.com/user-attachments/assets/be5e7d9e-78b9-452e-82d1-c5c5cdaa7bde)
+
+  ![image](https://github.com/user-attachments/assets/2c52571d-3340-4e31-a3c6-b22927f6fbe8)
+
+  ![image](https://github.com/user-attachments/assets/2c41426a-5e05-4f05-8e67-9ebcd343893d)
+
+
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
