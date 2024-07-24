@@ -18,31 +18,29 @@
 
 
 
-- Projeto 1:
+# Projeto 1:
 
   Análise de margem de contribuição
 
- # Primeira página busca mostrar o que foi exercido 
- # Segunda página busca demonstrar como cada variável do cálculo influenciará resultados futuros visto os resultados atuais 
- # Terceira página busca trazer um resumo estatístico das margens, a ideia é capturar "outliers" e a distribuição dos dados
-
- 
+ - Primeira página busca mostrar o que foi exercido 
+ - Segunda página busca demonstrar como cada variável do cálculo influenciará resultados futuros visto os resultados atuais 
+ - Terceira página busca trazer um resumo estatístico das margens, a ideia é capturar "outliers" e a distribuição dos dados
 
 
 
 
+![image](https://github.com/user-attachments/assets/5805ddac-35f0-4acf-b573-2a0c0988e4f8)
+
+![image](https://github.com/user-attachments/assets/04e2ad76-4ab0-4550-a321-8bc90b257942)
+
+![image](https://github.com/user-attachments/assets/d285ce45-9007-42b1-8f1f-411544ebd6b4)
 
 
-Um Pouco sobre mim:
-
-- 🔭 Atualmente estou trabalhando em projetos **de Machine Learning e Data Analytics**
-- Trago minhas experiências com estudos de Estatística e Machine Learning em mini projetos que visam explorar a complexidade e variedade de dados no mundo
-- 🤓 Dentre minhas principais habilidades, destaco o Exel, Python, R, Power BI (storytelling e afins) e SQL
-- ✅ Busco sempre trazer informações e insights novos e poderosos operando sobre a lente do mundo dos negócios e análises de causa raíz
 
 
-- Já atua na área dos dados há 3 anos e com diversos trabalhos, estou iniciando meu repositório aqui. A ideia desse repósitório é desenhar minhas habilidades
-- 📘 Probabilidades, Estimativas, Testes de Hipóteses, Regressões e Previsões com Machine Learning serão um pouco das informações que verá aqui hoje!
+
+# Projeto 2
+
 
 
 <h3 align="left">Connect with me:</h3>
