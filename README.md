@@ -5,15 +5,7 @@
 
 
 
-- Esse repositório incluirá alguns projetos em Power BI em fotos
-
-
-
-
-
-
-
-
+- Esse repositório incluirá alguns projetos em Power BI
 
 
 
@@ -40,6 +32,7 @@
 
 
 # Projeto 2
+
 
 
 
