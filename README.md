@@ -5,7 +5,31 @@
 
 
 
-- Esse repositório incluirá todos os meus trabalhos e projetos voltados a análises de dados objetivas e práticas. Aproveite!
+- Esse repositório incluirá alguns projetos em Power BI em fotos
+
+
+
+
+
+
+
+
+
+
+
+
+- Projeto 1:
+
+  Análise de margem de contribuição
+
+ # Primeira página busca mostrar o que foi exercido 
+ # Segunda página busca demonstrar como cada variável do cálculo influenciará resultados futuros visto os resultados atuais 
+ # Terceira página busca trazer um resumo estatístico das margens, a ideia é capturar "outliers" e a distribuição dos dados
+
+ 
+
+
+
 
 
 
