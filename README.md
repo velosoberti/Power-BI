@@ -5,12 +5,12 @@
 
 
 
-- Esse repositório incluirá alguns projetos em Power BI
+- Esse repositório incluirá alguns projetos em Power BI e minha evolução na ferramenta. Meu primeiro Dash 2021 para os últimos dash. Ainda vou publicar meu projeto de 2024 para demonstrar melhor a evolução alcançada.
 
 
 
 
-# Projeto 1:
+# Projeto 1: 2021
 
   Análise de margem de contribuição
 
@@ -31,7 +31,7 @@
 
 
 
-# Projeto 2
+# Projeto 2: 2022
 
 - Primeira página tem por intenção apresentar o Sell Out de Varejos ao longo das semanas analisando overview de vendas, estoque e venda acumulada e suas variações ao longo das semanas, além de análises de tendências e top clientes e uma métrica de razão de estoque e venda, métrica importante para avaliação de estoque e tendência
 - A segunda página conta uma história diferente, a ideia é apresentar mais detalhes dos dados quebrados por granularidades maiores e dar abertura a exportação de dados
@@ -43,7 +43,7 @@
 
 
 
-# Projeto 3
+# Projeto 3: 2023
 
 - O relatório tem por ideia demonstrar algumas informações de carteiras de clientes
 - Primeiro gráfico - clientes atingidos vs não atingidos
