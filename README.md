@@ -1,23 +1,21 @@
-# Projetos voltados à Análise de Dados
+# Projects Focused on Power BI Dashboards
 <h1 align="center">Hi 👋 Nice to meet you!</h1>
 <h3 align="center">Welcome to my page!</h3>
 <h4 align="center">I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h4>
 
 
 
-- Esse repositório incluirá alguns projetos em Power BI e minha evolução na ferramenta. Meu primeiro Dash 2021 para os últimos dash. Ainda vou publicar meu projeto de 2024 para demonstrar melhor a evolução alcançada.
+- This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.
 
 
 
+# Project 1: 2021
 
-# Projeto 1: 2021
+ Contribution Margin Analysis
 
-  Análise de margem de contribuição
-
- - Primeira página busca mostrar o que foi exercido 
- - Segunda página busca demonstrar como cada variável do cálculo influenciará resultados futuros visto os resultados atuais 
- - Terceira página busca trazer um resumo estatístico das margens, a ideia é capturar "outliers" e a distribuição dos dados
-
+- First Page: Aims to show what has been executed.
+- Second Page: Seeks to demonstrate how each variable in the calculation will influence future results based on current outcomes.
+- Third Page: Provides a statistical summary of margins, with the goal of capturing "outliers" and the data distribution.
 
 
 
@@ -31,10 +29,11 @@
 
 
 
-# Projeto 2: 2022
+# Project 2: 2022
 
-- Primeira página tem por intenção apresentar o Sell Out de Varejos ao longo das semanas analisando overview de vendas, estoque e venda acumulada e suas variações ao longo das semanas, além de análises de tendências e top clientes e uma métrica de razão de estoque e venda, métrica importante para avaliação de estoque e tendência
-- A segunda página conta uma história diferente, a ideia é apresentar mais detalhes dos dados quebrados por granularidades maiores e dar abertura a exportação de dados
+- First Page: Aims to present the Sell-Out of Retailers over the weeks, analyzing an overview of sales, inventory, and cumulative sales, along with their variations over time. It also includes trend analysis, top clients, and a stock-to-sales ratio metric, which is crucial for inventory evaluation and trend assessment.
+
+- Second Page: Tells a different story, focusing on presenting more detailed data broken down by larger granularities and providing the option to export data.
 
 ![image](https://github.com/user-attachments/assets/13e49d33-8b77-41d8-b6c4-ee24c5a8532b)
 
@@ -43,13 +42,15 @@
 
 
 
-# Projeto 3: 2023
+# Project 3: 2023
 
-- O relatório tem por ideia demonstrar algumas informações de carteiras de clientes
-- Primeiro gráfico - clientes atingidos vs não atingidos
-- Segunda Gráfico - clientes atingidos vs não atingidos por vendedor
-- Tabelas - quantidade, vendas, share (net sales/total), meta (goal), % achieved goal (meta atingida %), CTF, Classificação A e BC em quatro quebras em nível de linha de produto, grupo de produto, vendedor e cliente
-- última tabela - Descrição por nível de SKU de média trimestral de quantidade vendida, M0, M1, M2 e M3 de quantidade vendida, variação de crescimento e Classificação ABC
+- The report aims to demonstrate various information about customer portfolios:
+
+- First Chart: Shows the comparison between reached and not reached customers.
+- Second Chart: Compares reached vs. not reached customers by salesperson.
+- Tables:
+   - Quantity, Sales, Share (net sales/total), Goal, % Achieved Goal (percentage of goal achieved), CTF, and Classification A and BC broken down by product line, product group, salesperson, and customer.
+   - Last Table: Provides a description by SKU level, including quarterly average sold quantity, M0, M1, M2, and M3 of sold quantity, growth variation, and ABC Classification.
 
 ![image](https://github.com/user-attachments/assets/be5e7d9e-78b9-452e-82d1-c5c5cdaa7bde)
 
@@ -58,7 +59,7 @@
   ![image](https://github.com/user-attachments/assets/2c41426a-5e05-4f05-8e67-9ebcd343893d)
 
 
-# Projeto 4:2024 
+# Project 4:2024 
 
 
 
