@@ -7,7 +7,22 @@
 
 - This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.
 
-# Project 1: 2024 - Midia Overview
+
+
+# Project 1: 2024 - Digital Analytics - Meta - Unibanco (fake data)
+
+- 
+The goal of this project is to evaluate data from Meta Facebook campaigns and ads. The analysis begins with more summary views such as Reach, Impressions, and Average CTR/CPM, as well as the distribution of impressions by age and gender and an evolution over time. The idea of the first part is to provide an overview of the campaigns/ads' capabilities, identifying the strongest audience and whether the investments are on the right track.
+
+In the second part, we detail engagement metrics such as likes, shares, conversions, etc. Here, the level of detail provides a more focused view on describing how each campaign captures attention, to understand if the thumbnail attracts or if the content generates conversions.
+
+
+https://github.com/user-attachments/assets/8a041e5e-ad3f-4e80-8a90-618675c67593
+
+
+
+
+# Project 2: 2024 - Midia Overview (fake data)
 
 
 - In this project, the focus was to evaluate media for a client (Ambev - fictitious data). The objective was to break down this analysis by the main aspects, brands, and regions (with a gallery that helps to better understand which media is being used) to provide an overview of their distributions, understanding strengths and weaknesses, as well as key brands and regions.
@@ -17,14 +32,39 @@ https://github.com/user-attachments/assets/4f1a1198-8ddb-42a6-bb80-6683680d6296
 
 #
 
+# Project 3: 2023
+
+- The report aims to demonstrate various information about customer portfolios:
+
+- First Chart: Shows the comparison between reached and not reached customers.
+- Second Chart: Compares reached vs. not reached customers by salesperson.
+- Tables:
+   - Quantity, Sales, Share (net sales/total), Goal, % Achieved Goal (percentage of goal achieved), CTF, and Classification A and BC broken down by product line, product group, salesperson, and customer.
+   - Last Table: Provides a description by SKU level, including quarterly average sold quantity, M0, M1, M2, and M3 of sold quantity, growth variation, and ABC Classification.
+
+![image](https://github.com/user-attachments/assets/be5e7d9e-78b9-452e-82d1-c5c5cdaa7bde)
+
+  ![image](https://github.com/user-attachments/assets/2c52571d-3340-4e31-a3c6-b22927f6fbe8)
+
+  ![image](https://github.com/user-attachments/assets/2c41426a-5e05-4f05-8e67-9ebcd343893d)
 
 
 
+#
 
+# Project 4: 2022
 
+- First Page: Aims to present the Sell-Out of Retailers over the weeks, analyzing an overview of sales, inventory, and cumulative sales, along with their variations over time. It also includes trend analysis, top clients, and a stock-to-sales ratio metric, which is crucial for inventory evaluation and trend assessment.
 
+- Second Page: Tells a different story, focusing on presenting more detailed data broken down by larger granularities and providing the option to export data.
 
-# Project 1: 2021
+![image](https://github.com/user-attachments/assets/13e49d33-8b77-41d8-b6c4-ee24c5a8532b)
+
+![image](https://github.com/user-attachments/assets/2d136554-540f-4bf3-9825-67b1bfb1aae5)
+
+#
+
+# Project 5: 2021
 
  Contribution Margin Analysis
 
@@ -44,34 +84,12 @@ https://github.com/user-attachments/assets/4f1a1198-8ddb-42a6-bb80-6683680d6296
 
 
 
-# Project 2: 2022
-
-- First Page: Aims to present the Sell-Out of Retailers over the weeks, analyzing an overview of sales, inventory, and cumulative sales, along with their variations over time. It also includes trend analysis, top clients, and a stock-to-sales ratio metric, which is crucial for inventory evaluation and trend assessment.
-
-- Second Page: Tells a different story, focusing on presenting more detailed data broken down by larger granularities and providing the option to export data.
-
-![image](https://github.com/user-attachments/assets/13e49d33-8b77-41d8-b6c4-ee24c5a8532b)
-
-![image](https://github.com/user-attachments/assets/2d136554-540f-4bf3-9825-67b1bfb1aae5)
 
 
 
 
-# Project 3: 2023
 
-- The report aims to demonstrate various information about customer portfolios:
 
-- First Chart: Shows the comparison between reached and not reached customers.
-- Second Chart: Compares reached vs. not reached customers by salesperson.
-- Tables:
-   - Quantity, Sales, Share (net sales/total), Goal, % Achieved Goal (percentage of goal achieved), CTF, and Classification A and BC broken down by product line, product group, salesperson, and customer.
-   - Last Table: Provides a description by SKU level, including quarterly average sold quantity, M0, M1, M2, and M3 of sold quantity, growth variation, and ABC Classification.
-
-![image](https://github.com/user-attachments/assets/be5e7d9e-78b9-452e-82d1-c5c5cdaa7bde)
-
-  ![image](https://github.com/user-attachments/assets/2c52571d-3340-4e31-a3c6-b22927f6fbe8)
-
-  ![image](https://github.com/user-attachments/assets/2c41426a-5e05-4f05-8e67-9ebcd343893d)
 
 
 
