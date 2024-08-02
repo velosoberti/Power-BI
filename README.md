@@ -7,6 +7,21 @@
 
 - This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.
 
+# Project 1: 2024 - Midia Overview
+
+
+- In this project, the focus was to evaluate media for a client (Ambev - fictitious data). The objective was to break down this analysis by the main aspects, brands, and regions (with a gallery that helps to better understand which media is being used) to provide an overview of their distributions, understanding strengths and weaknesses, as well as key brands and regions.
+
+https://github.com/user-attachments/assets/4f1a1198-8ddb-42a6-bb80-6683680d6296
+
+
+#
+
+
+
+
+
+
 
 
 # Project 1: 2021
@@ -59,12 +74,7 @@
   ![image](https://github.com/user-attachments/assets/2c41426a-5e05-4f05-8e67-9ebcd343893d)
 
 
-# Project 4:2024 
 
-
-
-
-https://github.com/user-attachments/assets/4f1a1198-8ddb-42a6-bb80-6683680d6296
 
 
 
