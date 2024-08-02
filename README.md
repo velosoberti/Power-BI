@@ -42,7 +42,6 @@ https://github.com/user-attachments/assets/4f1a1198-8ddb-42a6-bb80-6683680d6296
    - Quantity, Sales, Share (net sales/total), Goal, % Achieved Goal (percentage of goal achieved), CTF, and Classification A and BC broken down by product line, product group, salesperson, and customer.
    - Last Table: Provides a description by SKU level, including quarterly average sold quantity, M0, M1, M2, and M3 of sold quantity, growth variation, and ABC Classification.
 
-![image](https://github.com/user-attachments/assets/be5e7d9e-78b9-452e-82d1-c5c5cdaa7bde)
 
   ![image](https://github.com/user-attachments/assets/2c52571d-3340-4e31-a3c6-b22927f6fbe8)
 
