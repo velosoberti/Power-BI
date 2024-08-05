@@ -8,7 +8,7 @@
 - This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.
 
 <p align="center">
-  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8nwc3rt8qk7k701vjg8.gif" width="auto" height="auto" alt="GIF">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fharshhere905&psig=AOvVaw0ySpgtFuuQIuk_FaSfC6mF&ust=1722964974334000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJD3zu2u3ocDFQAAAAAdAAAAABA2" width="auto" height="auto" alt="GIF">
 </p>
 
 
