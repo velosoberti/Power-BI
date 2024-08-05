@@ -7,6 +7,9 @@
 
 - This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.
 
+<p align="center">
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe8nwc3rt8qk7k701vjg8.gif" width="auto" height="auto" alt="GIF">
+</p>
 
 
 # Project 1: 2024 - Digital Analytics - Meta - Unibanco (fake data)
