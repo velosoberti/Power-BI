@@ -5,7 +5,7 @@
 
 
 
-https://github.com/user-attachments/assets/844d5119-ee99-49ef-b56a-cfa293c58942
+
 
 
 
@@ -34,7 +34,8 @@ https://github.com/user-attachments/assets/8a041e5e-ad3f-4e80-8a90-618675c67593
 
 - In this project, the focus was to evaluate media for a client (Ambev - fictitious data). The objective was to break down this analysis by the main aspects, brands, and regions (with a gallery that helps to better understand which media is being used) to provide an overview of their distributions, understanding strengths and weaknesses, as well as key brands and regions.
 
-https://github.com/user-attachments/assets/4f1a1198-8ddb-42a6-bb80-6683680d6296
+
+https://github.com/user-attachments/assets/844d5119-ee99-49ef-b56a-cfa293c58942
 
 
 #
