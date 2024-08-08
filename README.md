@@ -5,6 +5,10 @@
 
 
 
+https://github.com/user-attachments/assets/844d5119-ee99-49ef-b56a-cfa293c58942
+
+
+
 - This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.
 
 <p align="center">
