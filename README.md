@@ -7,8 +7,6 @@
 
 
 
-
-
 - This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.
 
 <p align="center">
@@ -24,7 +22,11 @@ The goal of this project is to evaluate data from Meta Facebook campaigns and ad
 In the second part, we detail engagement metrics such as likes, shares, conversions, etc. Here, the level of detail provides a more focused view on describing how each campaign captures attention, to understand if the thumbnail attracts or if the content generates conversions.
 
 
-https://github.com/user-attachments/assets/8a041e5e-ad3f-4e80-8a90-618675c67593
+
+
+
+
+https://github.com/user-attachments/assets/f578670d-d6ba-4298-9dcd-d56ecb77d674
 
 
 
