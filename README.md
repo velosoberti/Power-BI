@@ -1,13 +1,12 @@
-# Projects Focused on Power BI Dashboards
-<h1 align="center">Hi 👋 Nice to meet you!</h1>
-<h3 align="center">Welcome to my page!</h3>
+<h1 align="center"> Projects Focused on Power BI Dashboards</h1>
+
 <h4 align="center">I'm Luis a passionate about Data Universe. Learning every a little more every day! 👌</h4>
 
 
 
 
 
-<h1 align="center"> This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.</h1>
+<h3 align="center"> This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.</h3>
 
 
 # Project 1: 2024 - Digital Analytics - Meta - Unibanco (fake data)
