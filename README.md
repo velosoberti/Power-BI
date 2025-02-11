@@ -9,7 +9,7 @@
 <h3 align="center"> This repository will include some Power BI projects and my progress with the tool. From my first dashboard in 2021 to the latest ones. I will also publish my 2024 project to better showcase the evolution achieved.</h3>
 
 
-# Project 1: 2024 - Digital Analytics - Meta - Unibanco (fake data)
+# Project 1: 2024 - Digital Analytics - Meta (fake data)
 
 - 
 The goal of this project is to evaluate data from Meta Facebook campaigns and ads. The analysis begins with more summary views such as Reach, Impressions, and Average CTR/CPM, as well as the distribution of impressions by age and gender and an evolution over time. The idea of the first part is to provide an overview of the campaigns/ads' capabilities, identifying the strongest audience and whether the investments are on the right track.
